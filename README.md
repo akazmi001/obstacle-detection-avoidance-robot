@@ -26,7 +26,11 @@ The robot is equipped with a **single ultrasonic sensor** to detect obstacles in
    - If the left side is clear, it turns left.
    - If blocked, it moves backward and turns right.
 
-## Circuit Diagram:
+## Completed Robot Design:
+Below is an image of the completed **Obstacle Detection and Avoidance Robot**:
+
+![Final Robot Build](images/Final robot.jpg)
+
 ## Circuit Diagram:
 Below is the circuit diagram for the Obstacle Detection and Avoidance Robot:
 
