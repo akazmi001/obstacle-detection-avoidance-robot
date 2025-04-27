@@ -29,7 +29,7 @@ The robot is equipped with a **single ultrasonic sensor** to detect obstacles in
 ## Completed Robot Design:
 Below is an image of the completed **Obstacle Detection and Avoidance Robot**:
 
-![Final Robot Build](images/Final robot.jpg)
+![Final Robot Build](images/Final_robot.jpg)
 
 ## Circuit Diagram:
 Below is the circuit diagram for the Obstacle Detection and Avoidance Robot:
