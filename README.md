@@ -5,7 +5,7 @@ This project involves the design and development of an **autonomous robot** capa
 ## Technologies and Components Used:
 - **Arduino Uno**
 - **Ultrasonic Sensor (HC-SR04)**
-- **Motor Driver (L298N or similar)**
+- **Motor Driver (L298N)**
 - **DC Motors**
 - **Servo Motors**
 - **C/C++ Programming**
